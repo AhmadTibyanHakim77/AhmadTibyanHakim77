@@ -67,6 +67,10 @@ Full Stack Developer • Data Analyst • Data Science Enthusiast
 
 <p>
 
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+</p>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
