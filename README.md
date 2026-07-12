@@ -11,35 +11,29 @@ Full Stack Developer • Data Analyst • Data Science Enthusiast
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=AhmadTibyanHakim77&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/AhmadTibyanHakim77?logo=github&style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/AhmadTibyanHakim77?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
 ---
 
-#  About Me
+# About Me
 
- Full Stack Developer passionate about building scalable and modern web applications.
+I am an Informatics student with a strong interest in Full Stack Development, Data Analytics, and Machine Learning.
 
- Data Analyst focused on transforming raw data into meaningful business insights.
+I enjoy building scalable web applications using Laravel, React, and Next.js while exploring data-driven solutions to solve real-world problems.
 
- Data Science enthusiast with an interest in Machine Learning, Predictive Analytics, and Artificial Intelligence.
-
- Informatics Student who enjoys solving real-world problems through technology.
-
- Currently learning :
+Currently learning:
 
 - Advanced Laravel
 - React & Next.js
 - Machine Learning
-- Deep Learning
 - Data Engineering
 - Cloud Computing
 
 ---
 
-#  Tech Stack
+# Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=php,python,js,ts,java,cpp"/>
@@ -60,58 +54,35 @@ Full Stack Developer • Data Analyst • Data Science Enthusiast
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
 ### Data Analytics
 
 <p>
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-
 </p>
 
-### Data Science
+### Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
 </p>
 
 ---
 
-#  GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmadTibyanHakim77&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadTibyanHakim77&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
@@ -120,27 +91,25 @@ Full Stack Developer • Data Analyst • Data Science Enthusiast
 
 ---
 
-#  Activity Graph
+# Activity Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadTibyanHakim77&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
 
-#  Current Focus
+# Current Focus
 
--  Building scalable Full Stack Applications
--  Business Intelligence & Dashboard Development
--  Machine Learning & Artificial Intelligence
--  Cloud Technologies
--  Continuous Learning & Open Source Contribution
+- Full Stack Web Development
+- Data Analytics & Business Intelligence
+- Machine Learning
+- Open Source Contribution
+- Continuous Learning
 
 ---
 
-#  Connect with Me
+# Connect with Me
 
 <p>
 
@@ -161,7 +130,5 @@ Full Stack Developer • Data Analyst • Data Science Enthusiast
 ---
 
 <p align="center">
-
-<i>"Code with purpose. Analyze with data. Innovate with intelligence."</i>
-
+<i>Building software with clean architecture and transforming data into meaningful insights.</i>
 </p>
