@@ -1,16 +1,157 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ahmad Tibyan Hakim</h1>
 
-<!--
-**AhmadTibyanHakim77/AhmadTibyanHakim77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Developer • Data Analyst • Data Science Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Data+Analyst;Data+Science+Enthusiast;Laravel+%7C+React+%7C+Next.js;Python+%7C+Machine+Learning+%7C+SQL" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AhmadTibyanHakim77&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/AhmadTibyanHakim77?logo=github&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/AhmadTibyanHakim77?affiliations=OWNER&style=for-the-badge"/>
+</p>
+
+---
+
+# 🚀 About Me
+
+💻 Full Stack Developer passionate about building scalable and modern web applications.
+
+📊 Data Analyst focused on transforming raw data into meaningful business insights.
+
+🤖 Data Science enthusiast with an interest in Machine Learning, Predictive Analytics, and Artificial Intelligence.
+
+🎓 Informatics Student who enjoys solving real-world problems through technology.
+
+🌱 Currently learning
+
+- Advanced Laravel
+- React & Next.js
+- Machine Learning
+- Deep Learning
+- Data Engineering
+- Cloud Computing
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,python,js,ts,java,cpp"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+</p>
+
+### Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux"/>
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmadTibyanHakim77&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadTibyanHakim77&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadTibyanHakim77&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadTibyanHakim77&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AhmadTibyanHakim77&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 🚀 Building scalable Full Stack Applications
+- 📊 Business Intelligence & Dashboard Development
+- 🤖 Machine Learning & Artificial Intelligence
+- ☁️ Cloud Technologies
+- 📚 Continuous Learning & Open Source Contribution
+
+---
+
+# 📫 Connect with Me
+
+<p>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/AhmadTibyanHakim77">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<i>"Code with purpose. Analyze with data. Innovate with intelligence."</i>
+
+</p>
