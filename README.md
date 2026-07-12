@@ -66,7 +66,6 @@ Full Stack Developer • Data Analyst • Data Science Enthusiast
 ### Data Analytics
 
 <p>
-
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow"/>
 </p>
