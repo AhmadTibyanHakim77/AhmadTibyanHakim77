@@ -110,16 +110,6 @@ Full Stack Developer • Data Analyst • Data Science Enthusiast
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AhmadTibyanHakim77&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
 # 🎯 Current Focus
 
 - 🚀 Building scalable Full Stack Applications
