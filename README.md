@@ -16,17 +16,17 @@ Full Stack Developer • Data Analyst • Data Science Enthusiast
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-💻 Full Stack Developer passionate about building scalable and modern web applications.
+ Full Stack Developer passionate about building scalable and modern web applications.
 
-📊 Data Analyst focused on transforming raw data into meaningful business insights.
+ Data Analyst focused on transforming raw data into meaningful business insights.
 
-🤖 Data Science enthusiast with an interest in Machine Learning, Predictive Analytics, and Artificial Intelligence.
+ Data Science enthusiast with an interest in Machine Learning, Predictive Analytics, and Artificial Intelligence.
 
-🎓 Informatics Student who enjoys solving real-world problems through technology.
+ Informatics Student who enjoys solving real-world problems through technology.
 
-🌱 Currently learning
+ Currently learning :
 
 - Advanced Laravel
 - React & Next.js
@@ -37,7 +37,7 @@ Full Stack Developer • Data Analyst • Data Science Enthusiast
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ### Languages
 
@@ -84,7 +84,7 @@ Full Stack Developer • Data Analyst • Data Science Enthusiast
 
 ---
 
-# 📈 GitHub Analytics
+#  GitHub Analytics
 
 <p align="center">
 
@@ -100,7 +100,7 @@ Full Stack Developer • Data Analyst • Data Science Enthusiast
 
 ---
 
-# 📊 Activity Graph
+#  Activity Graph
 
 <p align="center">
 
@@ -110,17 +110,17 @@ Full Stack Developer • Data Analyst • Data Science Enthusiast
 
 ---
 
-# 🎯 Current Focus
+#  Current Focus
 
-- 🚀 Building scalable Full Stack Applications
-- 📊 Business Intelligence & Dashboard Development
-- 🤖 Machine Learning & Artificial Intelligence
-- ☁️ Cloud Technologies
-- 📚 Continuous Learning & Open Source Contribution
+-  Building scalable Full Stack Applications
+-  Business Intelligence & Dashboard Development
+-  Machine Learning & Artificial Intelligence
+-  Cloud Technologies
+-  Continuous Learning & Open Source Contribution
 
 ---
 
-# 📫 Connect with Me
+#  Connect with Me
 
 <p>
 
