@@ -84,7 +84,7 @@ Currently expanding my expertise in software engineering, artificial intelligenc
 
 ---
 
-## Data Science & Machine Learning
+## Data Science
 
 ## Data Science Libraries
 
@@ -146,6 +146,21 @@ Currently expanding my expertise in software engineering, artificial intelligenc
 
 </p>
 
+---
+
+## Natural Language Processing (NLP)
+
+<p>
+
+<img src="https://img.shields.io/badge/Transformer-Deep%20Learning-3949AB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/BERT-Google-1E88E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GPT-Large%20Language%20Model-10A37F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+</p>
 ---
 
 ## Development Tools
