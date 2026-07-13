@@ -161,6 +161,7 @@ Currently expanding my expertise in software engineering, artificial intelligenc
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
 </p>
+
 ---
 
 ## Development Tools
