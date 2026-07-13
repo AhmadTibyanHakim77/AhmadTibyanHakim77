@@ -86,6 +86,8 @@ Currently expanding my expertise in software engineering, artificial intelligenc
 
 ## Data Science & Machine Learning
 
+## Data Science Libraries
+
 <p>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -94,13 +96,19 @@ Currently expanding my expertise in software engineering, artificial intelligenc
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge"/>
 
@@ -111,6 +119,30 @@ Currently expanding my expertise in software engineering, artificial intelligenc
 <img src="https://img.shields.io/badge/Optuna-5C4EE5?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/SHAP-EA4335?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Deep Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CNN-Deep%20Learning-1E88E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RNN-Sequence%20Model-7B1FA2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LSTM-Time%20Series-F57C00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Bidirectional%20LSTM-Recurrent%20Network-8E24AA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GRU-Gated%20Recurrent%20Unit-00897B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/YOLO-Object%20Detection-E53935?style=for-the-badge"/>
 
 </p>
 
