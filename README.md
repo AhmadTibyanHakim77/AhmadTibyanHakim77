@@ -9,66 +9,26 @@ Building scalable web applications, transforming data into actionable insights, 
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Data+Analyst;Data+Science+Enthusiast;Laravel+%7C+React+%7C+Next.js;Python+%7C+Machine+Learning+%7C+SQL" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Data+Analyst;Data+Science+Enthusiast;Laravel+%7C+React+%7C+Next.js;Python+%7C+Machine+Learning+%7C+SQL" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AhmadTibyanHakim77&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/AhmadTibyanHakim77?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/AhmadTibyanHakim77?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=AhmadTibyanHakim77&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/AhmadTibyanHakim77?logo=github&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/AhmadTibyanHakim77?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
 ---
 
 # About Me
 
-I am an Informatics student with a strong interest in Full Stack Development, Data Analytics, and Machine Learning.
+Full Stack Developer passionate about building scalable, secure, and modern web applications.
 
-I enjoy designing scalable web applications, analyzing data to generate business insights, and developing intelligent solutions using modern technologies.
+Data Analyst focused on transforming raw data into meaningful business insights through data exploration, visualization, and statistical analysis.
 
-My goal is to combine software engineering and data-driven decision making to build impactful digital products.
+Data Science enthusiast with experience developing Machine Learning and Deep Learning projects for predictive analytics.
 
----
-
-# Featured Projects
-
-## Gold Price Forecasting Using Machine Learning and Deep Learning
-
-End-to-end financial forecasting project that predicts the next trading day's gold price using Machine Learning, Deep Learning, SHAP, and Optuna.
-
-**Technologies**
-
-Python • TensorFlow • XGBoost • LightGBM • CatBoost • SHAP • Optuna
-
----
-
-## Adult Income Prediction using Machine Learning
-
-Classification project that predicts whether an individual's annual income exceeds \$50K using feature engineering and ensemble learning.
-
-**Technologies**
-
-Python • Pandas • Scikit-Learn • Random Forest
-
----
-
-## CafeShop23
-
-Modern coffee shop web application with responsive UI and full CRUD functionality.
-
-**Technologies**
-
-Laravel • React • Tailwind CSS • MySQL
-
----
-
-## Adidas Store
-
-Full Stack E-Commerce web application with authentication, product management, and responsive design.
-
-**Technologies**
-
-Laravel • JavaScript • MySQL
+Currently expanding my expertise in software engineering, artificial intelligence, and cloud technologies while building practical, real-world projects.
 
 ---
 
@@ -77,7 +37,7 @@ Laravel • JavaScript • MySQL
 ## Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,php,js,ts,java,cpp"/>
+<img src="https://skillicons.dev/icons?i=php,python,js,ts,java,cpp"/>
 </p>
 
 ---
@@ -85,7 +45,7 @@ Laravel • JavaScript • MySQL
 ## Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite"/>
 </p>
 
 ---
@@ -101,7 +61,7 @@ Laravel • JavaScript • MySQL
 ## Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
 </p>
 
 ---
@@ -110,29 +70,35 @@ Laravel • JavaScript • MySQL
 
 <p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </p>
 
 ---
 
-## Machine Learning & AI
+## Data Science & Machine Learning
 
 <p>
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge"/>
 
@@ -140,9 +106,9 @@ Laravel • JavaScript • MySQL
 
 <img src="https://img.shields.io/badge/CatBoost-FFD700?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/SHAP-EA4335?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Optuna-5C4EE5?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Optuna-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SHAP-EA4335?style=for-the-badge"/>
 
 </p>
 
@@ -151,17 +117,7 @@ Laravel • JavaScript • MySQL
 ## Development Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman"/>
-
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux"/>
 </p>
 
 ---
@@ -199,6 +155,7 @@ Laravel • JavaScript • MySQL
 - Full Stack Web Development
 - Data Analytics
 - Machine Learning
+- Deep Learning
 - Financial Time Series Forecasting
 - Artificial Intelligence
 - Cloud Computing
@@ -206,15 +163,15 @@ Laravel • JavaScript • MySQL
 
 ---
 
-# Connect With Me
+# Connect with Me
 
 <p>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:your-email@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/your-linkedin">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -228,6 +185,6 @@ Laravel • JavaScript • MySQL
 
 <p align="center">
 
-<i>Building scalable software. Extracting insights from data. Creating intelligent solutions with AI.</i>
+<i>"Building scalable software. Transforming data into insights. Creating intelligent solutions with AI."</i>
 
 </p>
