@@ -173,10 +173,6 @@ Currently expanding my expertise in software engineering, artificial intelligenc
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
 <a href="https://github.com/AhmadTibyanHakim77">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
